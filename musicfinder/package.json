@@ -48,5 +48,6 @@
   "devDependencies": {
     "jest-dom": "^3.2.0"
   },
-  "proxy": "https://fantabulous-music-finder.herokuapp.com/"
+  "proxy": "https://fantabulous-music-finder.herokuapp.com/",
+  "host": "https://moodibeats.herokuapp.com/"
 }
